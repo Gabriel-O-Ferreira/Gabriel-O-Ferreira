@@ -1,5 +1,15 @@
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-ferreira/)
-### Gabriel Ferreira 
+### Gabriel Ferreira - *Estudante de Desenvolvimento de Software || `Trybe`*
+
+* Python
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* MySQL
+
+
+
 <!--
 **Gabriel-O-Ferreira/Gabriel-O-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
