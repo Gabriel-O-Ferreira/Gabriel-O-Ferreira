@@ -1,4 +1,4 @@
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-ferreira/)(https://www.linkedin.com/in/gabriel-oliveira-ferreira/)
+![[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-ferreira/)](https://www.linkedin.com/in/gabriel-oliveira-ferreira/)
 ### Gabriel Ferreira - *Estudante de Desenvolvimento de Software || `Trybe`*
 
 * Python
