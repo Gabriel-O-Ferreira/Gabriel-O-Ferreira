@@ -7,6 +7,9 @@
 * HTML5
 * CSS3
 * MySQL
+* MongoDB
+* Node.js
+* Express.js
 
 
 
