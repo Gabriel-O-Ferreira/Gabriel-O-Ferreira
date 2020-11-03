@@ -11,7 +11,7 @@
 * Node.js
 * Express.js
 
-[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=Gabriel)](https://github.com/g4brielof/github-readme-stats)
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=g4brielof)](https://github.com/Gabriel/github-readme-stats)
 
 <!--
 **Gabriel-O-Ferreira/Gabriel-O-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
